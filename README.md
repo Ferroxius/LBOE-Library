@@ -1,1 +1,1 @@
-# LBOE-Library
+# Palette-Library
